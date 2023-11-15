@@ -22,7 +22,7 @@ public class GuessMyNumber {
             }
 
             else
-                System.out.println("Your guess no :"+myguess+"is higher");
+                System.out.println("Your guess no:"+myguess+"is higher");
 
 
         }
